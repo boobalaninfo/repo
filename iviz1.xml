@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="ssh://git@github.com" name="caf" review="https://github.com"/>
-  <default remote="github" revision="master"/>
+  <default remote="caf" revision="master"/>
   <project name="boobalaninfo/AndroidNative"/>
 <project name="boobalaninfo/javaworkspace"/>
 <project name="boobalaninfo/Bonjour-iOS-MAC-Apps"/>
